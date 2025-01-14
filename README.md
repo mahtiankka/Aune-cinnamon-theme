@@ -13,6 +13,8 @@ Status: experimental
 ![calendar](https://github.com/user-attachments/assets/8e54d3a0-a8b4-41ce-a9d1-eb1022c04efa)
 ![Menu2](https://github.com/user-attachments/assets/a1f3181d-d0e1-49e3-884f-58e0121167dd)
 
+![youtube_social_icon_red](https://github.com/user-attachments/assets/575e1a14-6aa7-4b7a-9836-62952d4938a4) Koodi-kanava: https://youtu.be/Mhx1xVFkcCk
+
 Made on Linux Mint 22.1 Xia: You can try the theme with the following instructions:
 
 Download the Github Aune theme as a zip file. Unzip it to your computer.
